@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1564253432 source:c:\users\admiral\downloads\mkt\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"validaciones.h"
+
+1564251208 c:\users\admiral\downloads\mkt\clientes.h
+
+1564248366 c:\users\admiral\downloads\mkt\validaciones.h
+
+1564253455 source:c:\users\admiral\downloads\mkt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"validaciones.h"
+
+1564249039 source:c:\users\admiral\downloads\mkt\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+	"validaciones.h"
+
